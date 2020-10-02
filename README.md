@@ -10,3 +10,9 @@ In this project, we'll look at the covid-19 cases and confirmed deaths, from apr
 
 * The analysis will provide general idea of where the Coronavirus is likely headed in terms of Total Cases/Deaths.
 
+## [Sales Dataset Analysis](https://github.com/shyampatel13/Shyam_Portfolio/blob/main/SalesAnalysis/SalesAnalysis.ipynb)
+In this project, we are taking sample sales data from 2019 and cleaning the data to visualize our findings. Answering these questions:
+* What was the best month for sales? How much was earned that month?
+* What city had the highest number of sales?
+* What time should we display advertisements to maximize likelihood of customers buying products?
+* what product sold the most? why?
