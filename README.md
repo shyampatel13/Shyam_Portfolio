@@ -8,7 +8,7 @@ In this project, we'll look at the covid-19 cases and confirmed deaths, from apr
 
 ![](https://github.com/shyampatel13/Shyam_Portfolio/blob/main/images/project_img.png)
 
-* The analysis will provide general idea of where the Coronavirus is likely headed in terms of Total Cases/Deaths.
+The analysis will provide general idea of where the Coronavirus is likely headed in terms of Total Cases/Deaths.
 
 ## [Sales Dataset Analysis](https://github.com/shyampatel13/Shyam_Portfolio/blob/main/SalesAnalysis/SalesAnalysis.ipynb)
 In this project, we are taking sample sales data from 2019 and cleaning the data to visualize our findings. Answering these questions:
@@ -16,3 +16,4 @@ In this project, we are taking sample sales data from 2019 and cleaning the data
 * What city had the highest number of sales?
 * What time should we display advertisements to maximize likelihood of customers buying products?
 * what product sold the most? why?
+![](https://github.com/shyampatel13/Shyam_Portfolio/blob/main/images/img1.png)
