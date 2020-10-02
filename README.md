@@ -8,5 +8,5 @@ In this project, we'll look at the covid-19 cases and confirmed deaths, from apr
 
 ![](https://github.com/shyampatel13/Shyam_Portfolio/blob/main/images/project_img.png)
 
-The analysis will provide general idea of where the Coronavirus is likely headed in terms of Total Cases/Deaths.
+* The analysis will provide general idea of where the Coronavirus is likely headed in terms of Total Cases/Deaths.
 
