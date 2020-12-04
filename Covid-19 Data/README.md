@@ -3,4 +3,4 @@ In this project, we'll look at the covid-19 cases and confirmed deaths, from apr
 * Were there more male or female cases each month? Are males more likely to catch the virus versus females?
 * How did confirmed cases and total deaths change over time?
 
-The analysis will provide general idea of where the Coronavirus is likely headed in terms of Total Cases/Deaths.
+The analysis in the Jupyter Notebook will provide general idea of where the Coronavirus is likely headed in terms of Total Cases/Deaths.
