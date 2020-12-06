@@ -1,1 +1,1 @@
-![](Sales Report Lab 06A.png)
+![](Sales_Report_Lab06A.png)
